@@ -22,7 +22,7 @@ const Convert = ({language,text}) => {
                     q: text,
                     source: "en",
                     target: "es",
-                    key: 'AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM'
+                    key: ''
                 }
             })
 
